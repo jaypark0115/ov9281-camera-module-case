@@ -23,7 +23,6 @@ The models use millimetres. Import the STL files into your slicer and set the pr
 
 These views are rendered directly from the STL geometry. The overview shows the two parts separately.
 
-## Related projects
+## Related project
 
 - [OV9281 Camera Module 3D Model](https://github.com/jaypark0115/ov9281-camera-module-3d-model)
-- [Jay Tech Notes](https://jaypark0115.github.io/jay-tech-notes/)
